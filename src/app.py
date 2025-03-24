@@ -74,6 +74,42 @@ activities = {
         "schedule": "Fridays, 4:00 PM - 5:30 PM",
         "max_participants": 12,
         "participants": ["charlotte@mergington.edu", "elizabeth@mergington.edu"]
+    },
+    "Tennis Club": {
+        "description": "Learn and practice tennis with professional coaching",
+        "schedule": "Tuesdays and Thursdays, 3:00 PM - 4:30 PM",
+        "max_participants": 10,
+        "participants": ["lucas@mergington.edu", "grace@mergington.edu"]
+    },
+    "Swimming Team": {
+        "description": "Improve swimming techniques and compete in swim meets",
+        "schedule": "Mondays and Wednesdays, 4:00 PM - 5:30 PM",
+        "max_participants": 15,
+        "participants": ["henry@mergington.edu", "chloe@mergington.edu"]
+    },
+    "Photography Club": {
+        "description": "Learn photography skills and participate in photo exhibitions",
+        "schedule": "Fridays, 3:30 PM - 5:00 PM",
+        "max_participants": 12,
+        "participants": ["nora@mergington.edu", "jackson@mergington.edu"]
+    },
+    "Music Band": {
+        "description": "Join the school band and perform at events",
+        "schedule": "Wednesdays, 4:00 PM - 5:30 PM",
+        "max_participants": 20,
+        "participants": ["ella@mergington.edu", "logan@mergington.edu"]
+    },
+    "Science Club": {
+        "description": "Conduct experiments and explore scientific concepts",
+        "schedule": "Thursdays, 3:30 PM - 5:00 PM",
+        "max_participants": 15,
+        "participants": ["zoe@mergington.edu", "alex@mergington.edu"]
+    },
+    "History Club": {
+        "description": "Discuss historical events and visit museums",
+        "schedule": "Mondays, 3:30 PM - 4:30 PM",
+        "max_participants": 10,
+        "participants": ["samuel@mergington.edu", "lily@mergington.edu"]
     }
 }
 
